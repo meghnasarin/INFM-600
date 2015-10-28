@@ -1,0 +1,19 @@
+PROCESSING DETAILS
+
+Original Dataset: Pew Research. (2012). February 2012 – Search, Social Networks, and Politics. Retrieved from http://www.pewinternet.org/datasets/february-2012-search-social-networks-and-politics/
+
+
+New Dataset: Meghna Sardana Sarin. (2015). Social Media and Politics. Unpublished Raw Data. Available From https://github.com/meghnasarin/INFM-600.git
+
+
+The original focal data set was processed by taking a subset of it that resulted in a new dataset which focuses solely on people's internet usage and their social media behaviour related to politics. The processing was carried out in the following steps:
+
+a) Firstly, data related to books and e-books was deleted. This was done by deleting the variables q2,q3a,q3b,q3c from the original dataset.
+
+b) Then, data related to internet use for Wikipedia and online search was deleted. This was achieved by deleting the variables activ52, activ103 from the    original dataset.
+
+c) Then, data related to gadgets owned by responders was removed. This data was unnecessary for the research questions and therefore the variables q10a till q15c were    removed from the dataset.
+
+d) Lastly, data related to online search engines and search behaviour of respondents was removed. To achieve this, the variables from q32 till q42c were removed.
+
+e) The resulting subset of data is the new dataset "Social Media and Politics" that has data relevant to my analysis. In the excel dataset file Sheet 1 is the modified dataset itself and Sheet 2 contains the removed columns/variables from the original dataset (for tracking purposes only)

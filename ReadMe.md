@@ -59,6 +59,6 @@ The following Research questions can be answered using this dataset:
 	Analysis: To analyse this research question, we can categorize Age which is the independent variable into two groups : 18-40 and 40+. The dependent variable in this case can be scale created out of variables q31a, q31b and q31c.
 
 
-	Representing the Results: The best way to represent these results would be to create a 	scatter plot in different colours for the two age groups. This would 		help in	visualizing any differences that might be exist in the dependent variable owing to age. The scatter plot can also be accompanied by a frequency table 		to clearly state the numbers involved in this analysis.
+	Representing the Results: The best way to represent these results would be to create a 	scatter plot in different colours for the two age groups. This would help in visualizing any differences that might be exist in the dependent variable owing to age. The scatter plot can also be accompanied by a frequency table to clearly state the numbers involved in this analysis.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

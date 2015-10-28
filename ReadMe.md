@@ -38,21 +38,21 @@ RESEARCH QUESTIONS
 
 The following Research questions can be answered using this dataset:
 
-	a ) Are Men more likely to discuss (share and post) political issues on social networking 	sites as opposed to women?
+	a ) Are Men more likely to discuss (share and post) political issues on social networking sites as opposed to women?
 	
-	Motivation: It is a generally held notion that men are more involved in discussing 	political issues in general. It would be interesting to note if this notion 			holds true or not specifically to social media.
+	Motivation: It is a generally held notion that men are more involved in discussing political issues in general. It would be interesting to note if this notion holds true or not specifically to social media.
 
-	Analysis: TO analyse this research question, we can have Sex as an independent variable and 	q20,q21 as dependent variables. 
+	Analysis: TO analyse this research question, we can have Sex as an independent variable and q20,q21 as dependent variables. 
 
-	Representing the Results: The best way to represent these results would be in a tabular 	format where the the dependent variables and their values are listed  		across the 	independent variable, Sex. This way it would be easier to visualize the results 	simultaneously for both men and women and do a comparative analysis.
+	Representing the Results: The best way to represent these results would be in a tabular format where the the dependent variables and their values are listed across the independent variable, Sex. This way it would be easier to visualize the results simultaneously for both men and women and do a comparative analysis.
 
 
-	b) Is there an Age gap in how social networks affect one's political views overall among 	young adults (18-40 years) and older adults (40+)?
+	b) Is there an Age gap in how social networks affect one's political views overall among young adults (18-40 years) and older adults (40+)?
 
-	Motivation: It is a common observation that young people use social media on a larger scale 	as opposed to older adults. Therefore, it would be interesting to 		analyse 	whether this also affects their political views.
+	Motivation: It is a common observation that young people use social media on a larger scale as opposed to older adults. Therefore, it would be interesting to 		analyse	whether this also affects their political views.
 
-	Analysis: To analyse this research question, we can categorize Age which is the independent 	variable into two groups : 18-40 and 40+. The dependent variable in 	this case can be 	scale created out of variables q31a, q31b and q31c.
+	Analysis: To analyse this research question, we can categorize Age which is the independent variable into two groups : 18-40 and 40+. The dependent variable in this case can be scale created out of variables q31a, q31b and q31c.
 
-	Representing the Results: The best way to represent these results would be to create a 	scatter plot in different colours for the two age groups. This would 		help in 	visualizing any differences that might be exist in the dependent variable owing to age. The 	scatter plot can also be accompanied by a frequency table 		to clearly state 	the numbers involved in this analysis.
+	Representing the Results: The best way to represent these results would be to create a 	scatter plot in different colours for the two age groups. This would 		help in	visualizing any differences that might be exist in the dependent variable owing to age. The scatter plot can also be accompanied by a frequency table 		to clearly state the numbers involved in this analysis.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
